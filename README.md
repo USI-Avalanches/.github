@@ -1,3 +1,5 @@
+<p><img align="center" src="https://github.com/USI-Avalanches/.github/blob/master/logo.png" alt=""/></p>
+
 # USI Avalanches
 
 **Flag Football in Innsbruck seit 2007.**
