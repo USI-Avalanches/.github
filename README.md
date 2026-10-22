@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github.com/USI-Avalanches/.github/blob/master/logo.png" alt=""/></p>
+<p><img align="center" src="https://github.com/USI-Avalanches/.github/blob/master/logo.png?raw=true" alt=""/></p>
 
 # USI Avalanches
 
